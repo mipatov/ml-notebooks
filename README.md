@@ -10,4 +10,4 @@
     - **Семантическая классификация твитов:   [[DLS]semantic_tweats_classification.ipynb](./[DLS]semantic_tweats_classification.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/mipatov/ml-notebooks/blob/master/[DLS]semantic_tweats_classification.ipynb)** <br>
         Обработка текста, токенизация, классификация, Word2Vec, Tfidf      
     - **Классификация отзывов c IMBD:   [[DLS]classification_imdb.ipynb](./[DLS]classification_imdb.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/mipatov/ml-notebooks/blob/master/[DLS]classification_imdb.ipynb)** <br>
-        Обработка текста, токенизация, классификация, Word2Vec, Tfidf      
+        RNN (LSTM), CNN, GloVe-embeddings, анализ тональности      
